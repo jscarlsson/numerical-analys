@@ -22,5 +22,6 @@ get_period_f.m
 
 
 
-
 Utvidgning:
+main2.m (finns ej)
+vf.m
