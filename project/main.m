@@ -64,7 +64,7 @@ end
 legend('220 V', '1500 V', '2300 V', 'Location', 'northeast');
 
 
-
+load constants.mat;
 % --- SHOW CONSTANT CAPACITANCE ---
 
 h = [1e-6 1e-4];
@@ -103,7 +103,7 @@ end
 
 
 
-
+load constants.mat;
 % --- INTERPOLATION ---
 
 h = 0.000001;
@@ -121,7 +121,7 @@ end
 
 
 
-
+load constants.mat;
 % --- ASSESS VOLTAGE FOR FREQUENCY ---
 
 % Seeking U* = U_ for given frquency fq = 400, where
@@ -157,7 +157,7 @@ I_max = Imax
 
 
 
-
+load constants.mat;
 % --- ASSESS VOLTAGE FOR FREQUENCY WITH INSECURE CONSTANTS ---
 
 disp('-----------------------')

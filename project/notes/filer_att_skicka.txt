@@ -1,6 +1,8 @@
 Filer att skicka in:
 
-report.pdf
+
+report.pdf (ladda ned från Overleaf eller copypasta och pdflatex)
+
 
 Bas:
 main.m
@@ -9,6 +11,17 @@ plif.m
 rk4f.m
 smf.m
 get_period_f.m
+
+Utvidgning:
+main2.m (ej klar)
+vf.m
+trf.m
+sound_220V.wav
+sound_1500V.wav
+sound_2300V.wav
+
+
+
 
 
 jag varierade saker i dessa för tillförlitlighetsbedömningen:
@@ -19,9 +32,3 @@ jag har även (lokalt) modifierat några filer för att lättare kunna göra til
 assess_voltage_for_spec_frequency.m
 smf.m
 get_period_f.m
-
-
-
-Utvidgning:
-main2.m (finns ej)
-vf.m
